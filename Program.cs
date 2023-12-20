@@ -3,10 +3,12 @@ using System.Globalization;
 using Models;
 using Newtonsoft.Json;
 
+DateTime dataAtual= DateTime.Now;
+
 List<Venda> listaVendas = new List<Venda>();
 
-Venda v1 = new Venda(1, "ssd", 120.00M);
-Venda v2 = new Venda(2, "memoria", 100.00M);
+Venda v1 = new Venda(1, "ssd", 120.00M, dataAtual);
+Venda v2 = new Venda(2, "memoria", 100.00M, dataAtual);
 
 listaVendas.Add(v1);
 listaVendas.Add(v2);

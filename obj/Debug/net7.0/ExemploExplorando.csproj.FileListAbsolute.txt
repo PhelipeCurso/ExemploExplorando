@@ -1,0 +1,17 @@
+C:\dio\ProjetosDIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\dio\ProjetosDIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\dio\ProjetosDIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\dio\ProjetosDIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\dio\ProjetosDIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll
+C:\dio\ProjetosDIO\ExemploExplorando\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\dio\ProjetosDIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CopyComplete

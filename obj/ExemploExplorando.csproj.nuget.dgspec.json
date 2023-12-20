@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dio\\ProjetosDIO\\ExemploExplorando\\ExemploExplorando.csproj": {}
+  },
+  "projects": {
+    "C:\\dio\\ProjetosDIO\\ExemploExplorando\\ExemploExplorando.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dio\\ProjetosDIO\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectName": "ExemploExplorando",
+        "projectPath": "C:\\dio\\ProjetosDIO\\ExemploExplorando\\ExemploExplorando.csproj",
+        "packagesPath": "C:\\Users\\phelipe.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\dio\\ProjetosDIO\\ExemploExplorando\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\V.S\\SDKs\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phelipe.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://192.168.0.14:8084/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/ntZROmu8hdCjgv3sbjBdUqbsSj3SusVYtlenAZLBrhv5KaM1kg/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

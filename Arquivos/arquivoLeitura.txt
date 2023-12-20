@@ -1,0 +1,2 @@
+1 Na conferencia de saída o funcionamento dessas cores estão correto,
+2 porem na de entrada, se informar qualquer quantidade  ele sempre coloca a cor verde, independete se a quantidade informada estiver certa ou errada.
